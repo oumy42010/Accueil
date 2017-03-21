@@ -444,6 +444,7 @@ footer h1
 	float: right;
 	margin: 15px;
 	font-size: 0.9em;
+	color: grey;
 }
 
 /* Pour activer un positionnement type inline-block sur les vieilles versions d'IE */
