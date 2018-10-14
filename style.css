@@ -80,7 +80,7 @@ header
     flex-direction: column;
 }
 
-#logo, header h1
+#identité, header h1
 {
     display: inline-block;
     margin-bottom: 0px;
