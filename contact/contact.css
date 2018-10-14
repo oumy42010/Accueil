@@ -96,7 +96,6 @@ footer p
 nav
 {
     display: inline-block;
-    width: 900px;
     text-align: right;
 }
 
@@ -108,7 +107,7 @@ nav ul
 
 nav li
 {
-    margin-right: 15px;
+    margin-right: 5px;
 }
 
 nav a
