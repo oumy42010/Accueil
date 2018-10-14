@@ -12,7 +12,7 @@ body
 
 #page
 {
-    width: 900px;
+    width: 950px;
     margin: auto;
 }
 #redimensionnez
@@ -48,7 +48,7 @@ header
     display: flex;
     justify-content: space-between;
     align-items: flex-end;
-	width: 900px;
+    width: 950px;
 }
 
 #titre_principal
@@ -151,10 +151,6 @@ nav a:hover
     }
 }
 
-/* Bannière */
-
-
-
 
 /* Corps */
 
@@ -205,15 +201,7 @@ aside
     left: -12px;
 }
 
-#photo_oumy
-{
-    text-align: center;
-}
 
-#photo_oumy img
-{
-    border: 1px solid #181818;
-}
 
 aside img
 {
