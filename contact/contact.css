@@ -93,17 +93,7 @@ footer p
 }
 
 /* Navigation */
-nav
-{
-    display: inline-block;
-    text-align: right;
-}
 
-nav ul
-{
-    list-style-type: none;
-    display: flex;
-}
 
 nav li
 {
