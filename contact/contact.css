@@ -54,8 +54,9 @@ header
 {
     font-family: Dayrom, serif;
     font-size: 0.9em;
-    margin-top: 10px;
-    font-weight: normal;
+    width: 950px;
+    margin: 10px;
+    padding-top: 15px;
 }
 footer p
 {
