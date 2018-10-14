@@ -96,7 +96,7 @@ footer p
 nav
 {
     display: inline-block;
-    width: 800px;
+    width: 950px;
     text-align: right;
 }
 
@@ -221,12 +221,6 @@ aside img
         display: none;
     }
     
-    #photo_oumy img
-    {
-        width: 110px;
-        float: right;
-        margin-left: 15px;
-    }
     
     aside p:last-child
     {
@@ -239,7 +233,8 @@ aside img
 footer
 {
     background:  url('images/ico_top.png') no-repeat top center, url('images/separateur.png') repeat-x top, url('images/ombre.png') repeat-x top;
-    padding-top: 30px;
+    padding-top: 15px;
+    
 }
 
 footer p
