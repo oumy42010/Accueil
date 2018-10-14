@@ -1,4 +1,4 @@
-/* Définition des polices personnalisées */
+
 
 
 /* Eléments principaux de la page */
@@ -12,7 +12,7 @@ body
 
 #page
 {
-    width: 950px;
+    width: 990px;
     margin: auto;
 }
 #redimensionnez
@@ -48,7 +48,7 @@ header
     display: flex;
     justify-content: space-between;
     align-items: flex-end;
-    width: 950px;
+    width: 990px;
 }
 
 #titre_principal
