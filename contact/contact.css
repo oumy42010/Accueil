@@ -93,16 +93,29 @@ footer p
 /* Navigation */
 
 
+nav
+{
+    display: inline-block;
+    width: 440px;
+    text-align: right;
+}
+
+nav ul
+{
+    list-style-type: none;
+    display: flex;
+}
+
 nav li
 {
-    margin-right: 5px;
+    margin-right: 15px;
 }
 
 nav a
 {
     font-size: 1.3em;
     color: #181818;
-    padding-bottom: 5px;
+    padding-bottom: 3px;
     text-decoration: none;
 }
 
@@ -118,7 +131,7 @@ nav a:hover
     nav
     {
         width: auto;
-       text-align: left;
+        text-align: left;
     }
     
     nav li
@@ -137,7 +150,6 @@ nav a:hover
         border-bottom: 0;
     }
 }
-
 
 /* Corps */
 
