@@ -96,7 +96,7 @@ footer p
 nav
 {
     display: inline-block;
-    width: 440px;
+    width: 700px;
     text-align: right;
 }
 
@@ -115,7 +115,7 @@ nav a
 {
     font-size: 1.3em;
     color: #181818;
-    padding-bottom: 3px;
+    padding-bottom: 5px;
     text-decoration: none;
 }
 
